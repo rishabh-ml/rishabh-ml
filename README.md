@@ -44,7 +44,7 @@ My current focus is on expanding my knowledge in frameworks and **Machine Learni
 
 <div align="center">
 
-[![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/rishabh-ml/github-readme-stats)
+[![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh-ml&show_icons=true&theme=radical)](https://github.com/rishabh-ml/github-readme-stats)
   
 </div>
 
