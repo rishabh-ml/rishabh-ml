@@ -50,6 +50,16 @@ My current focus is on expanding my knowledge in frameworks and **Machine Learni
 
 ---
 
+## 📈 GitHub Profile Summary Cards:
+
+<div align="center">
+
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabh-ml&theme=tokyonight)
+
+</div>
+
+---
+
 ## 📫 How to Reach Me:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YourLinkedInUsername)
