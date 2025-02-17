@@ -1,81 +1,97 @@
-# Hi there, I'm Rishabh 👋
+# Hi there, I'm Rishabh Shukla! 👋
 
-![Profile Banner](https://user-images.githubusercontent.com/placeholder/banner.png)
-
-I am a **Computer Science Student** currently studying at **Government Polytechnic Mohammadi - Kheri**. I am passionate about learning new technologies, especially in **Java**, **Python**, and **Android Development**. I've also had hands-on experience working with **C**, **HTML**, **CSS**, and **JavaScript**.
-
-My current focus is on expanding my knowledge in frameworks and **Machine Learning** with a long-term goal to become a proficient **Machine Learning Developer**.
-
----
-
-## 🛠️ Languages & Tools:
-
-<div align="center">
-  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
-</div>
+🚀 **Full Stack Developer | Freelancer | Open-Source Contributor**  
+📍 Lucknow, India  
+📧 [Email Me](mailto:rsalambaghlko@gmail.com)  
+🔗 [Portfolio](https://rishabh-ml.vercel.app/)  
+🐙 [GitHub](https://github.com/rishabh-ml)  
 
 ---
 
-## 🔭 Current Projects:
+## 🔥 About Me  
 
-- 💻 Building a **Voice Assistant App** using **Java** and **XML** in **Android Studio**
-- 🧑‍💻 Exploring **Machine Learning** algorithms and models
-- 🌱 Learning **Core Java** for **Android Development**
+I'm a **versatile Full Stack Developer** with expertise in **MERN stack, React Native, and Python**. I specialize in building **scalable web applications**, **interactive UI/UX designs**, and **efficient backend systems**.
 
----
-
-## 🌱 Previously Worked On:
-
-- Built web pages using **HTML**, **CSS**, and **JavaScript**
-- Developed basic programs in **C**
-- Created simple **Python** scripts for automation
+I’m always eager to **learn new technologies**, **contribute to open-source**, and **collaborate on impactful projects**.
 
 ---
 
-## 📈 GitHub Stats:
+## 🛠️ Tech Stack  
 
-<div align="center">
+### **Frontend Development**  
+- HTML, CSS, Tailwind CSS  
+- JavaScript (ES6+), React.js, Next.js, Vue.js, Angular.js  
+- React Native (Mobile Development)  
 
-[![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh-ml&show_icons=true&theme=tokyonight)](https://github.com/rishabh-ml/github-readme-stats)
+### **Backend Development**  
+- Node.js (Express.js)  
+- Python, Java, PHP  
+- Firebase, MongoDB, MySQL  
 
-</div>
+### **Cloud & DevOps**  
+- AWS, Vercel, Heroku, Netlify  
+- API Development & Integration  
 
----
-
-## 📈 GitHub Profile Summary Cards:
-
-<div align="center">
-
-![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabh-ml&theme=tokyonight)
-
-</div>
-
----
-
-## 📫 How to Reach Me:
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YourLinkedInUsername)
-- **Email**: contact.rishabh.shukla@example.com
+### **Tools & Frameworks**  
+- Git, GitHub, GitLab  
+- Figma (UI/UX Design)  
+- MS Office with VBA  
 
 ---
 
-## ⚡ Fun Facts:
+## 📌 My Projects  
 
-- 🚀 Aspiring to become a **Machine Learning Developer** by 25
-- 🎮 Enjoy gaming and working on side projects in my spare time
+### 🔷 [**SRTechnicals**](https://srtechnicals.com) (Client Project - UAE)  
+- **Built a fully functional, SEO-optimized website**  
+- **Increased client conversions by 30%**  
+
+### 🔷 [**Task Management System**](https://github.com/rishabh-ml/task-management-system)  
+- **Built with MERN Stack**  
+- **Role-based access and real-time task updates**  
+
+### 🔷 [**Weather Wise (Android App)**](https://github.com/rishabh-ml/weather-wise)  
+- **Real-time weather data fetching using API**  
+- **Built using React Native & Firebase**  
+
+### 🔷 [**Voice Assistant (AI-powered App)**](https://github.com/rishabh-ml/voice-assistant)  
+- **Developed an AI-powered Voice Assistant**  
+- **Integrated OpenAI API for smart responses**  
+
+### 🔷 [**HealthEase - Doctor Consultation App**](https://github.com/rishabh-ml/doctor-consultation)  
+- **Built with React Native, Firebase, and React Paper UI**  
+- **Streamlined doctor-patient appointments**  
 
 ---
 
-<div align="center">
+## 🎓 Education & Certifications  
 
-### 🌟 "Stay Hungry, Stay Foolish." – Steve Jobs 🌟
+🎓 **Diploma in Computer Science & Engineering**  
+📍 Government Polytechnic Mohammadi Kheri (2022 – 2025)  
 
-</div>
+🏆 **Certifications:**  
+✅ **React.js Course - Udemy** (Instructor: Maximilian Schwarzmüller)  
+✅ **Android Development - DigiCoders Technologies**  
+✅ **Full Stack Development - 30DaysCoding (Taught by Google & Amazon Engineers)**  
+
+---
+
+## 🏆 Achievements & Hackathons  
+
+- Participated in **multiple hackathons**, including **Code Kshetra 2.0**  
+- **Won several competitive programming challenges**  
+- Active **open-source contributor on GitHub**  
+
+---
+
+## 📫 Let's Connect  
+
+💼 [LinkedIn](https://www.linkedin.com/in/rishabh-shukla)  
+🌐 [Portfolio](https://rishabh-ml.vercel.app/)  
+🐙 [GitHub](https://github.com/rishabh-ml)  
+✉️ [Email Me](mailto:rsalambaghlko@gmail.com)  
+
+👨‍💻 **Looking for exciting opportunities in Full Stack Development? Let’s collaborate!** 🚀  
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!** ⭐  
